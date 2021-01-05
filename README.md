@@ -54,4 +54,4 @@
 | 软件          | Remix，solidity0.6.0版本 | Remix，solidity0.5.0版本 |
 |               | NodeJS v12.18.3          | NodeJs v11               |
 
- 
+  [src=http___www.zhicheng.com_uploadfile_2018_0716_20180716113805635.jpg&refer=http___www.zhicheng.jfif](C:\Users\86188\Desktop\src=http___www.zhicheng.com_uploadfile_2018_0716_20180716113805635.jpg&refer=http___www.zhicheng.jfif) 
