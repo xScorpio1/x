@@ -19,9 +19,11 @@
 
 **目前粉丝经济平台的问题**
 
-![image-20210106004202922](C:\Users\86188\AppData\Roaming\Typora\typora-user-images\image-20210106004202922.png)
+
 
 ##  2.区块链与粉丝集资的匹配度分析
+
+![image-20210106084745789](https://i.loli.net/2021/01/06/UMKhQ15i8tWJoq6.png)
 
 ![image-20210106004327127](https://i.loli.net/2021/01/06/ipJr64qCjSyvFmV.png)
 
